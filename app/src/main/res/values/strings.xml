@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="format_map_click">COORDINATE\n%1$.4f, %2$.4f</string>
+    <string name="format_map_long_click">COORDINATE\n%1$.4f, %2$.4f</string>
+</resources>
